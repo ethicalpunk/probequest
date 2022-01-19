@@ -40,7 +40,7 @@ Added features
 
 3. All probe requests that match a MAC address in the watchlist.conf file, will be saved to a directory in ../database/<SOURCE_MAC>/watchlist.data
 
-.. image:: docs/_static/img/database_watch_demo.png
+.. image:: docs/_static/img/database_watchlist_demo.png
 
 Documentation
 =============
