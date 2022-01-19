@@ -28,7 +28,7 @@ Installation
 
     python3 setup.py install
     
-Added features
+Added fork features
 =============
 1. Added colour to output of text.
 
