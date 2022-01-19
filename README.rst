@@ -44,7 +44,7 @@ Added features
 
 .. image:: docs/_static/img/database_watchlist_demo.png
 
-5. Added signal strenght value (dBi) and transmission frequency value (mHz) to be sent with the output of a probe request detection.
+5. Added signal strenght value (dBm) and transmission frequency value (mHz) to be sent with the output of a probe request detection.
 
 .. image:: docs/_static/img/dbi_and_freq_demo.png
 
