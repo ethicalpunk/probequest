@@ -54,6 +54,8 @@ Documentation
 The project is documented `here
 <http://probequest.readthedocs.io/en/latest/>`__.
 
+To add a MAC address to the watchlist.conf file.... simply follow the instructions explained in the ../config/watchlist.conf file.
+
 In the Media
 ============
 
