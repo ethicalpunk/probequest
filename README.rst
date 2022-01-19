@@ -14,7 +14,7 @@ environment. Some devices (mostly smartphones and tablets) use these requests
 to determine if one of the networks they have previously been connected to is
 in range, leaking personal information.
 
-Further details are discussed in `this paper
+Further details are discussed in `this PDF document
 <https://brambonne.com/docs/bonne14sasquatch.pdf>`__.
 
 .. image:: docs/_static/img/probequest_demo.gif
