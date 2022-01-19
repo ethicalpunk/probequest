@@ -26,7 +26,21 @@ Installation
 
 ::
 
-    pip3 install --upgrade probequest
+    python3 setup.py install
+    
+Added features
+=============
+1. Feature to insert a single or multiple MAC addresses in a config file. Adding a MAC address to this config file will enable the feature to alert the user if a MAC address on the watchlist was detected sending a probe-request.
+
+.. image:: docs/_static/img/watchlist_demo.png
+
+2. All probe requests are always saved to a file located in ..database/masswatchlist.data.
+
+.. image:: docs/_static/img/database_demo.png
+
+3. All probe requests that match a MAC address in the watchlist.conf file, will be saved to a directory in ../database/<SOURCE_MAC>/watchlist.data
+
+.. image:: docs/_static/img/database_watch_demo.png
 
 Documentation
 =============
